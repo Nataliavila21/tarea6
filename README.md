@@ -1,5 +1,4 @@
-[README.md](https://github.com/user-attachments/files/29157049/README.md)
-# tarea6# 🐾 Patitas Felices
+🐾 Patitas Felices
 
 
 Un centro de adopción de animales necesita llevar un control organizado de:
